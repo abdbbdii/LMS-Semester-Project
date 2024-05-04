@@ -1,0 +1,14 @@
+load files in the following order:
+
+faculty.csv
+departments.csv
+courses.csv
+assignments.csv
+faculty_course_allocations.csv
+events.csv
+clubs.csv
+students.csv
+course_feedback.csv
+enrollments.csv
+
+is tarteeb se
