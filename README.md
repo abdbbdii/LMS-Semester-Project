@@ -269,4 +269,4 @@ The Student class represents student profiles and manages student information, i
 **Usage:**
 The Student class simplifies the management of student profiles in C++ programs, providing functionalities for efficient handling of student-related data.
 
-Don't worry ma'am no using vectors ;)
+Don't worry ma'am, I'm not using vectors ;)
