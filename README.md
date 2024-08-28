@@ -1,6 +1,6 @@
 # **Student Management System**
 
-Our Student Management System is a software tool designed to help schools and educational institutions efficiently manage student-related tasks. It offers a range of features to simplify administrative processes and enhance communication between students, faculty, and staff.
+This is a software tool designed to help schools and educational institutions efficiently manage student-related tasks. It offers a range of features to simplify administrative processes and enhance communication between students, faculty, and staff.
 
 **Key Features:**
 
